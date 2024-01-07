@@ -1,3 +1,4 @@
 baseURL = 'https://bahnfahren.lol/'
 languageCode = 'de-DE'
+subtitle = 'Pascals BahnCard 100 Stories'
 title = 'bahnfahren.lol'
