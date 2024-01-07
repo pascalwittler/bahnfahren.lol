@@ -1,4 +1,3 @@
 baseURL = 'https://bahnfahren.lol/'
 languageCode = 'de-DE'
-theme = 'hugo-theme-cleanwhite'
 title = 'bahnfahren.lol'
